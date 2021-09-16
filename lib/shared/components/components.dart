@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_print
+
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:community_material_icon/community_material_icon.dart';
 import 'package:facebook_flutter/models/post_model.dart';
