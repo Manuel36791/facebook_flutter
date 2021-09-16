@@ -1,7 +1,6 @@
-// ignore_for_file: use_key_in_widget_constructors
+// ignore_for_file: use_key_in_widget_constructors, sized_box_for_whitespace
 
 import 'package:community_material_icon/community_material_icon.dart';
-import 'package:facebook_flutter/models/post_model.dart';
 import 'package:facebook_flutter/shared/colors/colors.dart';
 import 'package:facebook_flutter/shared/components/components.dart';
 import 'package:facebook_flutter/shared/components/constants.dart';
